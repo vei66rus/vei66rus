@@ -33,7 +33,7 @@
   <a href="https://t.me/developer_v0">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-  <a href="https://jenyavolkov.tech">
+  <a href="https://evolkov.tech">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
