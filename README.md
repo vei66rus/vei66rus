@@ -14,7 +14,7 @@
 
 ## 🚀 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue,nuxt,react,nextjs,redux,gsap,threejs,solidity,ethers,nodejs,supabase,firebase,git,gitlab,vercel,typescript,javascript,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue,nuxt,react,nextjs,redux,threejs,solidity,nodejs,supabase,firebase,git,gitlab,vercel,typescript,javascript,figma" />
 </div>
 
 <p align="center" style="margin-top: 10px;">
@@ -34,8 +34,8 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://jenyavolkov.tech">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 </p>
 
 <p align="center">
