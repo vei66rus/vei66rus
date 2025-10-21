@@ -14,7 +14,7 @@
 
 ## 🚀 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue,nuxt,react,nextjs,redux,threejs,solidity,nodejs,supabase,firebase,git,gitlab,vercel,typescript,javascript,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue,nuxt,react,nextjs,redux,threejs,solidity,nodejs,supabase,firebase,git,gitlab,vercel,typescript,javascript,figma,vite,webpack" />
 </div>
 
 <p align="center" style="margin-top: 10px;">
