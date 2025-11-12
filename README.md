@@ -8,13 +8,13 @@
 - ⚡ Frontend Developer focused on **Vue 3, Nuxt 4, React 18, Next 15**
 - 🎨 Passionate about **motion design, 3D, and creative coding**
 - 🧩 Experienced with **GSAP**, **Three.js**, **TailwindCSS**, **Supabase**, and **Firebase**
-- 🌐 Exploring **Web3**, **Ethers.js**, **Solidity**, and **decentralized UX**
+- 🌐 Exploring **Web3**, **Ethers.js**, **Viem** **Solidity**, and **decentralized UX**
 - 🛠 Loves architecture, performance, and clean code  
 - ☕ Fun fact: I debug faster after coffee
 
 ## 🚀 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue,nuxt,react,nextjs,redux,threejs,solidity,nodejs,supabase,firebase,git,gitlab,vercel,typescript,javascript,figma,vite,webpack,blender" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue,nuxt,react,nextjs,redux,threejs,solidity,nodejs,supabase,firebase,git,gitlab,vercel,typescript,javascript,figma,vite,webpack,blender,prisma,postgresql,appwrite" />
 </div>
 
 <p align="center" style="margin-top: 10px;">
