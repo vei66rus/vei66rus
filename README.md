@@ -5,10 +5,10 @@
 </p>
 
 ### 🧠 About Me
-- ⚡ Frontend Developer focused on **Vue 3, Nuxt 4, React 18, Next 15**
+- ⚡ Frontend Developer focused on **Vue 3, Nuxt 4, React 19, Next 16**
 - 🎨 Passionate about **motion design, 3D, and creative coding**
 - 🧩 Experienced with **GSAP**, **Three.js**, **TailwindCSS**, **Supabase**, and **Firebase**
-- 🌐 Exploring **Web3**, **Ethers.js**, **Viem** **Solidity**, and **decentralized UX**
+- 🌐 Exploring **Web3**, **Ethers.js**, **Viem**, **Solidity**, **Hardhat** and **decentralized UX**
 - 🛠 Loves architecture, performance, and clean code  
 - ☕ Fun fact: I debug faster after coffee
 
