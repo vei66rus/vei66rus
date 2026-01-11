@@ -9,8 +9,18 @@
 - 🎨 Passionate about **motion design, 3D, and creative coding**
 - 🧩 Experienced with **GSAP**, **Three.js**, **TailwindCSS**, **Supabase**, and **Firebase**
 - 🌐 Exploring **Web3**, **Ethers.js**, **Viem**, **Solidity**, **Hardhat** and **decentralized UX**
+- **Current Focus:** Developing [ToolsGambling.com](https://toolsgambling.com) — a suite of 80+ professional tools for math-based gambling analysis
 - 🛠 Loves architecture, performance, and clean code  
 - ☕ Fun fact: I debug faster after coffee
+
+## 🎰 Featured Project: iGaming Analytics
+<p align="left">
+  <a href="https://toolsgambling.com">
+    <img src="https://img.shields.io/badge/ToolsGambling-Free%20Professional%20Calculators-4EE0C9?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  </a>
+</p>
+
+> **[ToolsGambling.com](https://toolsgambling.com)** is an open-source initiative to demystify gambling mathematics. Built with **Nuxt 4**, **TypeScript**, and complex math algorithms to help players make data-driven decisions.
 
 ## 🚀 Tech Stack
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 6px;">
