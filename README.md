@@ -1,38 +1,83 @@
-<h1 align="center">Hey, I'm Jenya Volkov 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=4EE0C9&center=true&vCenter=true&width=600&lines=Frontend+Developer;Vue+3+%7C+Nuxt+4+%7C+TypeScript;React+%7C+Next.js+%7C+Redux;GSAP+%7C+Three.js;Building+modern+interactive+web+apps" alt="Typing SVG" />
+  <img src="jenya.jpg" width="160" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hey, I'm Jenya Volkov 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=4EE0C9&center=true&vCenter=true&width=600&lines=iGaming+Frontend+Developer;Vue+3+%7C+React+%7C+TypeScript;PixiJS+%7C+GSAP+%7C+Spine;Building+interactive+casino+games+for+the+web" alt="Typing SVG" />
 </p>
 
 ### 🧠 About Me
-- ⚡ Frontend Developer focused on **Vue 3, Nuxt 4, React 19, Next 16**
-- 🎨 Passionate about **motion design, 3D, and creative coding**
-- 🧩 Experienced with **GSAP**, **Three.js**, **TailwindCSS**, **Supabase**, and **Firebase**
-- 🌐 Exploring **Web3**, **Ethers.js**, **Viem**, **Solidity**, **Hardhat** and **decentralized UX**
+
+- 🎰 **iGaming Frontend Developer** building interactive casino experiences for the web
+- ⚡ Core stack: **Vue 3, Nuxt, React, Next.js, TypeScript**
+- 🎮 Game dev: **PixiJS, GSAP, Spine, Canvas API, WebGL**
+- 🔊 Audio & animation: **Howler.js, Web Audio API, sprite-based animation**
 - **Current Focus:** Developing [ToolsGambling.com](https://toolsgambling.com) — a suite of 80+ professional tools for math-based gambling analysis
-- 🛠 Loves architecture, performance, and clean code  
-- ☕ Fun fact: I debug faster after coffee
+- 🛠 Passionate about performance, clean architecture, and smooth UX
 
 ## 🎰 Featured Project: iGaming Analytics
+
 <p align="left">
   <a href="https://toolsgambling.com">
     <img src="https://img.shields.io/badge/ToolsGambling-Free%20Professional%20Calculators-4EE0C9?style=for-the-badge&logo=google-analytics&logoColor=white" />
   </a>
 </p>
 
-> **[ToolsGambling.com](https://toolsgambling.com)** is an open-source initiative to demystify gambling mathematics. Built with **Nuxt 4**, **TypeScript**, and complex math algorithms to help players make data-driven decisions.
+> **[ToolsGambling.com](https://toolsgambling.com)** — open-source platform for gambling mathematics. Built with **Nuxt 4**, **TypeScript**, and complex math algorithms to help players make data-driven decisions.
 
 ## 🚀 Tech Stack
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 6px;">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue,nuxt,react,nextjs,redux,threejs,solidity,nodejs,supabase,firebase,git,gitlab,vercel,typescript,javascript,figma,vite,webpack,blender,prisma,postgresql,appwrite" />
+
+<div align="center">
+
+#### 🎮 Game Development
+<p>
+  <img src="https://img.shields.io/badge/PixiJS-e72264?style=for-the-badge&logo=pixi.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spine-FF6600?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Howler.js-1DA1F2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+#### ⚡ Frontend Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,typescript,javascript" />
+</p>
+
+#### 🛠 Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,nodejs,supabase,firebase,git,gitlab,vercel,vite,webpack,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Pinia-ffd859?style=for-the-badge&logo=pinia&logoColor=2f2f2f" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
 </div>
 
-<p align="center" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Pinia-State-ffd859?style=for-the-badge&logo=pinia&logoColor=2f2f2f" />
-  <img src="https://img.shields.io/badge/Prismic-CMS-5163ba?style=for-the-badge&logo=prismic&logoColor=white" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vei6rus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vei6rus&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vei6rus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vei6rus/vei6rus/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/volkov-evgeny">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -44,8 +89,8 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
   <a href="https://evolkov.tech">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
