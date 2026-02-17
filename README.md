@@ -62,18 +62,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vei6rus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vei6rus&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vei66rus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vei66rus&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vei6rus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vei66rus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vei6rus/vei6rus/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vei66rus/vei66rus/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## 🤝 Connect With Me
@@ -94,5 +94,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vei6rus&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vei66rus&color=brightgreen" alt="Profile Views" />
 </p>
