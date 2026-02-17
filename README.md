@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="jenya.jpg" width="160" style="border-radius: 50%;" />
-</p>
-
 <h1 align="center">Hey, I'm Jenya Volkov 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=4EE0C9&center=true&vCenter=true&width=600&lines=iGaming+Frontend+Developer;Vue+3+%7C+React+%7C+TypeScript;PixiJS+%7C+GSAP+%7C+Spine;Building+interactive+casino+games+for+the+web" alt="Typing SVG" />
@@ -62,18 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vei66rus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vei66rus&theme=tokyonight&hide_border=true&background=0d1117" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vei66rus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vei66rus/vei66rus/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ## 🤝 Connect With Me
